@@ -84,10 +84,10 @@ export default function Home() {
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary via-accent to-destructive flex items-center justify-center">
-                <span className="text-white font-bold text-lg">☁️</span>
+                <img src="placeholder-logo.png" alt="" />
               </div>
               <div>
-                <h1 className="text-3xl sm:text-4xl font-bold text-foreground tracking-tight">GCS Study Jam 2025</h1>
+                <h1 className="text-3xl sm:text-4xl font-bold text-foreground tracking-tight">Cloud Study Jam 2025</h1>
                 <p className="text-sm text-muted-foreground font-medium">GDG SOIT Progress Tracker</p>
               </div>
             </div>
