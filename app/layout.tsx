@@ -10,7 +10,7 @@ const _inter = Inter({ subsets: ["latin"] })
 const _poppins = Poppins({ weight: ["400", "500", "600", "700"], subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "GCS Study Jam 2025 - Progress Tracker",
+  title: "Google Cloud Study Jam 2025 - Progress Tracker",
   description: "Track student progress in Google Cloud Study Jam 2025",
   generator: "v0.app",
 }
