@@ -1,0 +1,38 @@
+[
+  {
+    "User Name": "Ananya Gupta",
+    "User Email": "ananyagupta20061030@gmail.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3d5c9480-d485-4602-9621-cedfa5117d3f",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "No",
+    "All Skill Badges & Games Completed": "No",
+    "# of Skill Badges Completed": 0,
+    "Names of Completed Skill Badges": "",
+    "# of Arcade Games Completed": 0,
+    "Names of Completed Arcade Games": ""
+  },
+  {
+    "User Name": "Rajesh Kumar",
+    "User Email": "rajesh.kumar@example.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/abc123",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "All Skill Badges & Games Completed": "Yes",
+    "# of Skill Badges Completed": 5,
+    "Names of Completed Skill Badges": "Cloud Fundamentals, Compute Engine, Cloud Storage",
+    "# of Arcade Games Completed": 3,
+    "Names of Completed Arcade Games": "Cloud Quest, Arcade Game 1"
+  },
+  {
+    "User Name": "Priya Singh",
+    "User Email": "priya.singh@example.com",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/def456",
+    "Profile URL Status": "All Good",
+    "Access Code Redemption Status": "Yes",
+    "All Skill Badges & Games Completed": "No",
+    "# of Skill Badges Completed": 2,
+    "Names of Completed Skill Badges": "Cloud Fundamentals",
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Cloud Quest"
+  }
+]
